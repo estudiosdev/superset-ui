@@ -26,6 +26,7 @@ import bulgaria from 'file-loader!./countries/bulgaria.geojson';
 import canada from 'file-loader!./countries/canada.geojson';
 import china from 'file-loader!./countries/china.geojson';
 import denmark from 'file-loader!./countries/denmark.geojson';
+import dominican from 'file-loader!./countries/dominican.geojson';
 import egypt from 'file-loader!./countries/egypt.geojson';
 import estonia from 'file-loader!./countries/estonia.geojson';
 import france from 'file-loader!./countries/france.geojson';
@@ -74,6 +75,7 @@ export const countries = {
   canada,
   china,
   denmark,
+  dominican,
   egypt,
   estonia,
   france,
